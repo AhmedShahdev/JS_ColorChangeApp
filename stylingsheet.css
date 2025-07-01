@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 3rem;
+    padding: 2rem;
+}
+
+.headingcontainer{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.msgcontainer{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.container{
+    display: flex;
+    padding: 5rem;
+    justify-content: center;
+    gap: 3rem;
+}
+
+.changebtn {
+    height: 5rem;
+    width: 5rem;
+}
+
+h2{
+    padding-top: 5rem;
+}
+
+#Red{
+    background-color: #e5383b;
+}
+
+#Yellow{
+    background-color: #ffd60a;
+}
+
+#Green{
+    background-color: #a7c957;
+}
+
+#Blue{
+    background-color: #90e0ef;
+}
+
+#Orange{
+    background-color: #fb8b24;
+}
